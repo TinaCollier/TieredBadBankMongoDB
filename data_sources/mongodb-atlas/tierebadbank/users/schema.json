@@ -1,0 +1,27 @@
+{
+    "properties": {
+        "_id": {
+            "bsonType": "objectId"
+        },
+        "balance": {
+            "bsonType": "number"
+        },
+        "email": {
+            "bsonType": "string"
+        },
+        "name": {
+            "bsonType": "string"
+        },
+        "password": {
+            "bsonType": "string"
+        }
+    },
+    "required": [
+        "_id",
+        "name",
+        "email",
+        "password",
+        "balanec"
+    ],
+    "title": "users"
+}
